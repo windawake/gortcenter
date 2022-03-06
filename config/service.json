@@ -1,0 +1,25 @@
+{
+    "db": {
+        "service_order": {
+            "host": "127.0.0.1",
+            "port": "3307",
+            "database": "service_order",
+            "username": "root",
+            "password": "z1234567"
+        },
+        "service_storage": {
+            "host": "127.0.0.1",
+            "port": "3307",
+            "database": "service_storage",
+            "username": "root",
+            "password": "z1234567"
+        },
+        "service_account": {
+            "host": "127.0.0.1",
+            "port": "3307",
+            "database": "service_account",
+            "username": "root",
+            "password": "z1234567"
+        }
+    }
+}

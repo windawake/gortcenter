@@ -1,0 +1,7 @@
+{
+    "name": "rtcenter",
+    "env": "local",
+    "debug": "true",
+    "port": "8001",
+    "timezone": "Asia/Shanghai"
+}

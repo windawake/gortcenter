@@ -1,0 +1,11 @@
+{
+    "db": {
+        "rt_center": {
+            "host": "127.0.0.1",
+            "port": "3307",
+            "database": "rt_center",
+            "username": "root",
+            "password": "z1234567"
+        }
+    }
+}
