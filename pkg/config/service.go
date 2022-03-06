@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"log"
 
+	_ "github.com/go-sql-driver/mysql"
 	"github.com/jmoiron/sqlx"
 	viperlib "github.com/spf13/viper" // 自定义包名，避免与内置 viper 实例冲突
 )
